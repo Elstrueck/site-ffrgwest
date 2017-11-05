@@ -15,7 +15,8 @@ GLUON_SITE_PACKAGES := \
         gluon-web-admin \
         gluon-web-autoupdater \
         gluon-web-private-wifi \
-        gluon-web-wifi-config \
+        gluon-web-network \
+	gluon-web-wifi-config \
         gluon-mesh-vpn-tunneldigger \
         gluon-radvd \
         gluon-status-page \
