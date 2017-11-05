@@ -43,3 +43,4 @@ GLUON_REGION ?= eu
 
 # Select ath10k Firmware for adhoc
 GLUON_ATH10K_MESH ?= 11s
+
