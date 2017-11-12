@@ -1,10 +1,3 @@
-GLUON_SITE_FEEDS="ssidchanger ffac"
-
-PACKAGES_SSIDCHANGER_REPO=https://github.com/ffac/gluon-ssid-changer.git
-PACKAGES_SSIDCHANGER_COMMIT=f5149c017264532aecd54e8184a155c944a04d7e
-PACKAGES_SSIDCHANGER_BRANCH=chaos-calmer
-
-
 GLUON_SITE_FEEDS='ffrl'
 
 PACKAGES_FFRL_REPO='https://github.com/ffrl/ffrl-packages.git'
