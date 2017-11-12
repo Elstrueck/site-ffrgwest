@@ -23,7 +23,6 @@ GLUON_SITE_PACKAGES := \
         gluon-radvd \
         gluon-status-page \
         gluon-migrate-vpn \
-        gluon-ssid-changer \
         gluon-tunneldigger-watchdog \
         iwinfo \
         iptables \
@@ -31,7 +30,6 @@ GLUON_SITE_PACKAGES := \
 
 # Languages to include
 GLUON_LANGS ?= en de
-
 
 DEFAULT_GLUON_RELEASE := 0.8.14+stable
 
