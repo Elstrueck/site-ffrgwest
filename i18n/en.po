@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2015-07-15 11:39+0100\n"
-"Last-Translator: Philip Berndroth <freifunk@struecken.net>\n"
+"PO-Revision-Date: 2019-06-20 11:39+0100\n"
+"Last-Translator: Christian Strücken <freifunk@struecken.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,15 @@ msgstr ""
 msgid "gluon-config-mode:welcome"
 msgstr ""
 "Welcome the the setup wizard of your new Freifunk node. "
-"Please fill out the following form and transmit it."
+
+msgid "gluon-config-mode:domain"
+msgstr "Ruhrgebiet West"
+
+msgid "gluon-config-mode:domain-select"
+msgstr ""
+"Here you have the possibility of selecting the mesh domain in which your node "
+"is placed. Please keep in mind that your router only connects with the nodes "
+"of the selected domain."
 
 msgid "gluon-config-mode:pubkey"
 msgstr ""
@@ -26,3 +34,23 @@ msgstr ""
 "You will find a lot of information about Freifunk on "
 "<a href=\"http://www.freifunk.net/\">www.freifunk.net</a>.</p>"
 "<p>Have fun with your node and exploring the Freifunk network!</p>"
+# Leave empty to use the default text, which can be found in:
+# package/gluon-config-mode-hostname/i18n/
+msgid "gluon-config-mode:hostname-help"
+msgstr ""
+
+# Leave empty to use the default text, which can be found in:
+# package/gluon-config-mode-geo-location/i18n/
+msgid "gluon-config-mode:geo-location-help"
+msgstr ""
+
+msgid "gluon-config-mode:altitude-label"
+msgstr ""
+
+# Leave empty to use the default text, which can be found in:
+# package/gluon-config-mode-contact-info/i18n/
+msgid "gluon-config-mode:contact-help"
+msgstr ""
+
+msgid "gluon-config-mode:contact-note"
+msgstr ""
