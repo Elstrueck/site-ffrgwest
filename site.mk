@@ -13,7 +13,6 @@ GLUON_FEATURES := \
 
 
 GLUON_SITE_PACKAGES := \
-
 	gluon-mesh-vpn-tunneldigger \
 	haveged \
 	iwinfo
